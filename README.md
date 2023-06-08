@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats-zqfq.vercel.app/api/top-langs/?username=KimPaivarinne&count_private=true)](https://github-readme-stats-zqfq.vercel.app/api/top-langs/?username=KimPaivarinne)
+[![Top Langs](https://github-readme-stats-zqfq.vercel.app/api/top-langs/?username=KimPaivarinne&count_private=true&langs_count=8)](https://github-readme-stats-zqfq.vercel.app/api/top-langs/?username=KimPaivarinne)
 <!--
 **KimPaivarinne/KimPaivarinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
