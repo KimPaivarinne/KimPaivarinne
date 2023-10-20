@@ -3,7 +3,7 @@
 <table cellspacing="0" cellpadding="0"><tr><td>
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com/?user=KimPaivarinne"></a>
   </td><td>
-  <a href="https://github.com/KimPaivarinne/github-readme-stats"><img src="https://github-readme-stats-zqfq.vercel.app/api/top-langs/?username=KimPaivarinne&count_private=true&langs_count=12&size_weight=0.5&count_weight=0.5&layout=donut&hide=shaderlab&hide=objectivec"></a>
+  <a href="https://github.com/KimPaivarinne/github-readme-stats"><img src="https://github-readme-stats-zqfq.vercel.app/api/top-langs/?username=KimPaivarinne&count_private=true&langs_count=12&size_weight=0.5&count_weight=0.5&layout=donut&hide=shaderlab,objective-c"></a>
 </td></tr></table>
 
 
